@@ -44,7 +44,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/duyl97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
@@ -54,9 +54,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://duyl97.wordpress.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/duyluan97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:dl97.app@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://duyl97.wordpress.com/"><img alt="Website" src="https://img.shields.io/badge/Website-duyl97.wordpress.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/duyluan97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luan%20Nguyen%20Duy-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:dl97.app@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dl97.app@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [duyl97](https://github.com/duyl97)
