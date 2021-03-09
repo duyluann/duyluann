@@ -41,7 +41,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  <!-- ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft-PowerPoint-333333?style=flat&logo=Microsoft-PowerPoint)-->
+  ![MS PowerPoint](https://img.shields.io/badge/MS-PowerPoint%20-D04423)
 
 <br/>
 
