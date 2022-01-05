@@ -51,7 +51,7 @@
 </a>
 
 <br/>
-<a href="https://app.daily.dev/duyl97"><img src="https://github.com/duyl97/duyl97/devcard.svg" width="400" alt="duyl97's Dev Card"/></a>
+<a href="https://app.daily.dev/duyl97"><img src="https://github.com/duyl97/duyl97/blob/main/devcard.svg" width="400" alt="duyl97's Dev Card"/></a>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
