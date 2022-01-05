@@ -51,7 +51,8 @@
 </a>
 
 <br/>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/duyl97/duyl97/blob/master/devcard.svg" width="400" alt="duyl97's Dev Card"/></a>
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
