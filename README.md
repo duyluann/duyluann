@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Electronics and Telecommunications Engineering at Ho Chi Minh city University of Technology.
-- 💼 &nbsp; Working as a system verification engineer for telecommunication application at TMA Solutions Vietnam.
+- 💼 &nbsp; Working as a DevOps engineer at Bosch Global Software Technologies Vietnam.
 - 🌱 &nbsp; Learning more about DevOps Engineering, Cloud Architecture, Systems Design, Network and Web Development.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
@@ -17,7 +17,6 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   <!--![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   <!--![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)-->
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
