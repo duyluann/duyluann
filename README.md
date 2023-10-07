@@ -71,32 +71,45 @@ Effective teamwork is essential in DevOps. I excel at fostering collaboration be
 
 ## 🌟 Certifications
 
-[![AWS Certified Solutions Architect – Associate (SAA-C03)](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate%20(SAA-C03)-FF9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/a14821bd-ba01-4da2-8e3d-35718798034f/public_url)
+- **AWS Certificates**: &nbsp;
+[![AWS Certified Solutions Architect – Associate (SAA-C03)](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-%20SAA%2D-C03-FF9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/a14821bd-ba01-4da2-8e3d-35718798034f/public_url)
 
 ## 🛠️ Technologies I'm Proficient With
 
-- **Cloud Platforms**: &nbsp; ![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/Azure-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure)
+- **Cloud Platforms**: &nbsp;
+  ![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon-aws)
+  ![Azure](https://img.shields.io/badge/Azure-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure)
 
-- **Containerization**: &nbsp; ![Docker](https://img.shields.io/badge/Docker-Container%20Technology-2496ED?style=flat&logo=docker)
+- **Containerization**: &nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-Container%20Technology-2496ED?style=flat&logo=docker)
 
-- **Infrastructure as Code**: &nbsp; ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-623CE4?style=flat&logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-Automation%20Tool-EE0000?style=flat&logo=ansible)
+- **Infrastructure as Code**: &nbsp;
+  ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-623CE4?style=flat&logo=terraform)
+  ![Ansible](https://img.shields.io/badge/Ansible-Automation%20Tool-EE0000?style=flat&logo=ansible)
 
-- **CI/CD**: &nbsp; ![Jenkins](https://img.shields.io/badge/Jenkins-Continuous%20Integration-3498DB?style=flat&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Workflow%20Automation-2088FF?style=flat&logo=github-actions) ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-Continuous%20Delivery-FF9900?style=flat&logo=amazon-aws) ![CircleCI](https://img.shields.io/badge/CircleCI-Continuous%20Integration-343434?style=flat&logo=circleci)
+- **CI/CD**: &nbsp;
+  ![Jenkins](https://img.shields.io/badge/Jenkins-Continuous%20Integration-3498DB?style=flat&logo=jenkins)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Workflow%20Automation-2088FF?style=flat&logo=github-actions)
+    ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-Continuous%20Delivery-FF9900?style=flat&logo=amazon-aws)
+    ![CircleCI](https://img.shields.io/badge/CircleCI-Continuous%20Integration-343434?style=flat&logo=circleci)
 
-- **Monitoring & Logging**: &nbsp; ![Grafana](https://img.shields.io/badge/Grafana-Monitoring%20and%20Analytics-F46800?style=flat&logo=grafana) ![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-Log%20Analysis%20and%20Visualization-005571?style=flat&logo=elasticsearch&logoColor=005571&logoWidth=30&logoSpacing=5&logo=logstash&logoColor=005571&logoWidth=30&logoSpacing=5&logo=kibana&logoColor=005571&logoWidth=30&logoSpacing=5&logo=beats&logoColor=005571&logoWidth=30&logoSpacing=5)
-![Scalyr](https://img.shields.io/badge/Scalyr-Log%20Management%20and%20Monitoring-008BFF?style=flat&logo=scalyr)
-![New Relic](https://img.shields.io/badge/New%20Relic-Application%20Performance%20Monitoring-00A300?style=flat&logo=new-relic)
+- **Monitoring & Logging**: &nbsp;
+  ![Grafana](https://img.shields.io/badge/Grafana-Monitoring%20and%20Analytics-F46800?style=flat&logo=grafana)
+  ![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-Log%20Analysis%20and%20Visualization-005571?style=flat&logo=elasticsearch&logoColor=005571&logoWidth=30&logoSpacing=5&logo=logstash&logoColor=005571&logoWidth=30&logoSpacing=5&logo=kibana&logoColor=005571&logoWidth=30&logoSpacing=5&logo=beats&logoColor=005571&logoWidth=30&logoSpacing=5)
+  ![Scalyr](https://img.shields.io/badge/Scalyr-Log%20Management%20and%20Monitoring-008BFF?style=flat&logo=scalyr)
+  ![New Relic](https://img.shields.io/badge/New%20Relic-Application%20Performance%20Monitoring-00A300?style=flat&logo=new-relic)
 
 - **Version Control**: &nbsp; ![Git Repository](https://img.shields.io/badge/Git-Repository-F05032?style=flat&logo=git)
 ![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)
 ![Bitbucket Repository](https://img.shields.io/badge/Bitbucket-Repository-0052CC?style=flat&logo=bitbucket)
 ![GitLab Repository](https://img.shields.io/badge/GitLab-Repository-FC6D26?style=flat&logo=gitlab)
 
-- **Scripting/Programming**: &nbsp; ![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash)
-![Python](https://img.shields.io/badge/Python-Programming%20Language-3776AB?style=flat&logo=python)
+- **Scripting/Programming**: &nbsp;
+  ![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?style=flat&logo=gnu-bash)
+  ![Python](https://img.shields.io/badge/Python-Programming%20Language-3776AB?style=flat&logo=python)
 
 - **Database**: &nbsp;
-   ![MySQL](https://img.shields.io/badge/MySQL-Database%20Management-4479A1?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/MySQL-Database%20Management-4479A1?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database%20Management-336791?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Database-47A248?style=flat&logo=mongodb)
 
