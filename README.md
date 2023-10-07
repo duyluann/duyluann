@@ -1,8 +1,4 @@
-# DevOps Engineer Profile
-
-## Introduction
-
-Hello! I'm Luan, a passionate and results-driven DevOps Engineer with a strong background in automating, optimizing, and streamlining software development and IT operations. I am committed to enhancing collaboration between development and operations teams to accelerate software delivery, improve reliability, and ensure scalability.
+Hey there! I'm Luan, a passionate and results-driven DevOps Engineer with a strong background in automating, optimizing, and streamlining software development and IT operations. I am committed to enhancing collaboration between development and operations teams to accelerate software delivery, improve reliability, and ensure scalability.
 
 ## 🚀 What I Bring to the Table
 
