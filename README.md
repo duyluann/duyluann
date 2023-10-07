@@ -53,7 +53,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://duyl97.wordpress.com/"><img alt="Website" src="https://img.shields.io/badge/Website-duyl97.wordpress.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://devops4life.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://devops4life.vercel.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/duyluan97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luan%20Nguyen%20Duy-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dl97.app@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dl97.app@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
