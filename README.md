@@ -6,7 +6,7 @@ I'm Luan, a passionate and results-driven DevOps Engineer with a strong backgrou
 
 ### Continuous Integration/Continuous Deployment (CI/CD)
 
-I specialize in designing, implementing, and maintaining robust CI/CD pipelines. By automating the build, test, and deployment processes, I help organizations achieve faster time-to-market and reduced risk of errors.
+I specialize in designing, implementing, and maintaining robust CI/CD pipelines. By automating the build, test, and deployment processes, I help organizations achieve faster time-to-market and reduce the risk of errors.
 
 ### Infrastructure as Code (IaC)
 
@@ -41,14 +41,14 @@ Effective teamwork is essential in DevOps. I excel at fostering collaboration be
 
 ### TMA Solutions - DevOps Engineer (02/2022 - 12/2022)
 
-- Project description: Provide the smart solutions for controlling air conditioning and heat pump systems via Wifi, joining the smart home ecosystem.
+- Project description: Provide smart solutions for controlling air conditioning and heat pump systems via Wifi, joining the smart home ecosystem.
 - Responsibilities:
   - Supporting deployment and configuring tools for continuous integration and continuous delivery pipelines.
   - Maintaining a scalable infrastructure to handle rapidly growing traffic.
-  - Supporting the customer’s issues with root cause analysis and resolution of escalated technical issues.
-  - Working closely with backend engineers to keep improving the service’s performance, the development environment, tracking by stabilizing workflow and CI/CD environment.
-  - Learning new technologies to apply for the customer cases, sharing with the team.
-- Accomplishments: Learned new technologies, computer networking. Improved teamwork, communication skills.
+  - Supporting the customer’s issues with root cause analysis and resolving escalated technical issues.
+  - Working closely with backend engineers to keep improving the service’s performance, the development environment, and tracking by stabilizing workflow and CI/CD environment.
+  - Learning new technologies to apply to the customer cases, and share with the team.
+- Accomplishments: Learned new technologies and computer networking, improved teamwork and communication skills.
 - Technologies and tools: AWS, Ansible, Docker, Terraform, Bash script, CircleCI, Scalyr, New Relic.
 
 
@@ -59,10 +59,10 @@ Effective teamwork is essential in DevOps. I excel at fostering collaboration be
   - Installing, and upgrading the platform and application for the system.
   - Testing capacity, and performance of the traffic for the system.
   - Meeting with the customers and teammates to get clear requirements. 
-  - Testing all features of the system. Debugging and communicating with the designers to figure out the root cause if any.
-  - Learning new technologies to apply for the customer cases, sharing with the team.
+  - Testing all features of the system, debugging, and communicating with the designers to figure out the root cause if any.
+  - Learning new technologies to apply to the customer cases, and share with the team.
   - Holding the English club to open a place to work, play and improve English, and soft skills.
-- Accomplishments: Learned new technologies, and computer networking. Improved teamwork, and communication skills.
+- Accomplishments: Learned new technologies, and computer networking, improved teamwork, and communication skills.
 - Technologies and tools: VoIP, SOAP API, SoapUI, JMeter, VMWare, Docker, Linux, Oracle SQL, PostgreSQL.
 
 ## 📚 Education
@@ -128,7 +128,7 @@ Effective teamwork is essential in DevOps. I excel at fostering collaboration be
 ## 📫 Contact Me
 
 - LinkedIn: [Nguyen Duy Luan](https://www.linkedin.com/in/duyluan97/)
-- Email: dl97.app@gmail.com
+- Email: duyluan0607@gmail.com
 - GitHub: [duyl97](https://github.com/duyl97)
 
 I am passionate about driving innovation, optimizing processes, and enabling teams to achieve their full potential through DevOps practices. If you're looking to enhance your software delivery pipeline, improve infrastructure reliability, or simply want to connect and discuss all things DevOps, feel free to reach out!
