@@ -134,3 +134,6 @@ Effective teamwork is essential in DevOps. I excel at fostering collaboration be
 I am passionate about driving innovation, optimizing processes, and enabling teams to achieve their full potential through DevOps practices. If you're looking to enhance your software delivery pipeline, improve infrastructure reliability, or simply want to connect and discuss all things DevOps, feel free to reach out!
 
 ⭐️ From [duyl97](https://github.com/duyl97) with luv ❤
+
+<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="duyl97's Dev Card"/></a>
+
