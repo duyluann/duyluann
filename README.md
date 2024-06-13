@@ -135,5 +135,5 @@ I am passionate about driving innovation, optimizing processes, and enabling tea
 
 ⭐️ From [duyl97](https://github.com/duyl97) with luv ❤
 
-<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="duyl97's Dev Card"/></a>
+<a href="https://app.daily.dev/duyl97"><img src="./devcard.png" width="356" alt="duyl97's Dev Card"/></a>
 
