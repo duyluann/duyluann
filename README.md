@@ -14,11 +14,15 @@ I'm Luan, a passionate and results-driven DevOps Engineer with a strong backgrou
 ## 🛠️ Technologies I'm Proficient With
 
 - **Cloud Platforms**: &nbsp;
-  ![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon-aws)
-  ![Azure](https://img.shields.io/badge/Azure-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure)
+  ![](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=flat&logo=amazon-aws)
+  ![](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure)
 
 - **Containerization**: &nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-Container%20Technology-2496ED?style=flat&logo=docker)
+  ![](https://img.shields.io/badge/Docker-FF9900?style=flat&logo=docker)
+  ![](https://img.shields.io/badge/Kubernetes-FF9900?style=flat&logo=Kubernetes)
+  ![](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat&logo=amazonecs)
+  ![](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat&logo=amazoneks)
+
 
 - **Infrastructure as Code**: &nbsp;
   ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-623CE4?style=flat&logo=terraform)
