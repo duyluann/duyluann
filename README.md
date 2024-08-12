@@ -26,6 +26,7 @@ Welcome to my workspace! I'm Luan, a passionate DevOps Engineer.
 
 - **Infrastructure as Code**: &nbsp;
   ![](https://img.shields.io/badge/Terraform-343434?style=flat&logo=terraform)
+  ![](https://img.shields.io/badge/Terragrunt-343434?style=flat&logo=terragrunt)
   ![](https://img.shields.io/badge/Ansible-343434?style=flat&logo=ansible)
 
 - **CI/CD**: &nbsp;
