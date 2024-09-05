@@ -14,15 +14,15 @@ Welcome to my workspace! I'm Luan, a passionate DevOps Engineer.
 ## 🛠️ Technologies I'm Proficient With
 
 - **Cloud Platforms**: &nbsp;
-  ![](https://img.shields.io/badge/Amazon_Web_Services-343434?style=flat&logo=amazonwebservices)
-  ![](https://img.shields.io/badge/Microsoft_Azure-343434?style=flat&logo=microsoft-azure)
+  ![](https://img.shields.io/badge/Amazon_Web_Services-ff9900?style=flat&logo=amazonwebservices&logoColor=white)
+  ![](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure)
 
 - **Containerization**: &nbsp;
   ![](https://img.shields.io/badge/Docker-343434?style=flat&logo=docker)
   ![](https://img.shields.io/badge/Kubernetes-343434?style=flat&logo=kubernetes)
-  ![](https://img.shields.io/badge/Amazon_ECS-343434?style=flat&logo=amazonecs)
-  ![](https://img.shields.io/badge/Amazon_EKS-343434?style=flat&logo=amazoneks)
-
+  ![](https://img.shields.io/badge/Amazon_ECS-ff9900?style=flat&logo=amazonecs&logoColor=white)
+  ![](https://img.shields.io/badge/Amazon_EKS-ff9900?style=flat&logo=amazoneks&logoColor=white)
+  ![](https://img.shields.io/badge/Azure_Kubernetes_Service-0078D4?style=flat)
 
 - **Infrastructure as Code**: &nbsp;
   ![](https://img.shields.io/badge/Terraform-343434?style=flat&logo=terraform)
