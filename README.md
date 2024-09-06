@@ -64,9 +64,9 @@ Welcome to my workspace! I'm Luan, a passionate DevOps Engineer.
 
 <br/>
 
-<a href="https://github.com/duyluan97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duyluan97&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyluan97&theme=buefy&layout=compact" />
+<a href="https://github.com/duyluann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duyluann&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyluann&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -75,8 +75,8 @@ Welcome to my workspace! I'm Luan, a passionate DevOps Engineer.
 
 - LinkedIn: [Nguyen Duy Luan](https://www.linkedin.com/in/duyluan97/)
 - Email: duyluan0607@gmail.com
-- GitHub: [duyluan97](https://github.com/duyluan97)
+- GitHub: [duyluann](https://github.com/duyluann)
 
-⭐️ From [duyluan97](https://github.com/duyluan97) with luv ❤
+⭐️ From [duyluann](https://github.com/duyluann) with luv ❤
 
-<a href="https://app.daily.dev/duyluan97"><img src="./devcard.png" width="356" alt="duyluan97's Dev Card"/></a>
+<a href="https://app.daily.dev/duyluann"><img src="./devcard.png" width="356" alt="duyluann's Dev Card"/></a>
