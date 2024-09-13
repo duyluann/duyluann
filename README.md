@@ -73,7 +73,7 @@ Welcome to my workspace! I'm Luan, a passionate DevOps Engineer.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Luan Nguyen Duy](https://www.linkedin.com/in/duyluannguyen/)
+- LinkedIn: [Luan Nguyen Duy](https://www.linkedin.com/in/luannguyenduy/)
 - Email: duyluan0607@gmail.com
 - GitHub: [duyluann](https://github.com/duyluann)
 
