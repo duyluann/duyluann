@@ -1,6 +1,6 @@
 # Hey there! 😊
 
-Welcome to my workspace! I'm Luan, a passionate DevOps Engineer.
+Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 
 ## 📚 Education
 
