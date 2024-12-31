@@ -10,8 +10,8 @@ Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 
 - **AWS Certificates**: &nbsp;
 [![](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-SAA--C03-ff9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/a14821bd-ba01-4da2-8e3d-35718798034f/public_url)
-[![](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-AIF--C01-ff9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/a14821bd-ba01-4da2-8e3d-35718798034f/public_url)
-[![](https://img.shields.io/badge/AWS_Certified_AI_Practitioner_Early_Adopter-AIF--C01-ff9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/a14821bd-ba01-4da2-8e3d-35718798034f/public_url)
+[![](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-AIF--C01-ff9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/77b3291c-debe-4de8-b1a8-5562486ef09d/public_url)
+[![](https://img.shields.io/badge/AWS_Certified_AI_Practitioner_Early_Adopter-AIF--C01-ff9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/aca00ba8-a408-4dfc-aa26-d341f2724ac8/public_url)
 
 ## 🛠️ Technologies I'm Proficient With
 
