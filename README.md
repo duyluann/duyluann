@@ -13,11 +13,15 @@ Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 [![](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-AIF--C01-ff9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/77b3291c-debe-4de8-b1a8-5562486ef09d/public_url)
 [![](https://img.shields.io/badge/AWS_Certified_AI_Practitioner_Early_Adopter-AIF--C01-ff9900?style=flat&logo=amazon-aws)](https://www.credly.com/badges/aca00ba8-a408-4dfc-aa26-d341f2724ac8/public_url)
 
+- **Google Cloud Platform Certificates**: &nbsp;
+[![Google Cloud Associate Cloud Engineer](https://img.shields.io/badge/Google_Cloud_Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/c0a65321-c846-4885-ab0a-dc4bc2234a05/linked_in_profile)
+
 ## 🛠️ Technologies I'm Proficient With
 
 - **Cloud Platforms**: &nbsp;
-  ![](https://img.shields.io/badge/Amazon_Web_Services-ff9900?style=flat&logo=amazonwebservices&logoColor=white)
-  ![](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure)
+  ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-ff9900?style=flat&logo=amazonwebservices&logoColor=white)
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure)
+  ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 - **Containerization**: &nbsp;
   ![](https://img.shields.io/badge/Docker-343434?style=flat&logo=docker)
