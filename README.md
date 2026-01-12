@@ -71,15 +71,6 @@ Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 - **Code Quality and Analysis**: &nbsp;
   ![](https://img.shields.io/badge/SonarQube-343434?style=flat&logo=sonarqube)
 
-<br/>
-
-<a href="https://github.com/duyluann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duyluann&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyluann&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 ## 📫 Contact Me
 
 - LinkedIn: [Luan Nguyen Duy](https://www.linkedin.com/in/duyluannguyen/)
@@ -89,3 +80,4 @@ Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 ⭐️ From [duyluann](https://github.com/duyluann) with luv ❤
 
 <a href="https://app.daily.dev/duyluann"><img src="./devcard.png" width="356" alt="duyluann's Dev Card"/></a>
+
