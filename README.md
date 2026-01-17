@@ -2,6 +2,8 @@
 
 Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 
+> Check out [ops4life](https://github.com/ops4life) for DevOps resources and projects!
+
 ## 📚 Education
 
 - Bachelor of Electrical, Electronics and Communications Engineering - Ho Chi Minh University of Technology, 2015-2019
