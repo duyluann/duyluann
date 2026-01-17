@@ -2,6 +2,9 @@
 
 Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 
+> [!IMPORTANT]
+> **Recommendation**
+>
 > Check out [ops4life](https://github.com/ops4life) for DevOps resources and projects!
 
 ## 📚 Education
