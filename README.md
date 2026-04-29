@@ -3,7 +3,7 @@
 Welcome to my tiny world! I'm Luan, a passionate DevOps Engineer.
 
 > [!TIP]
-> Check out [ops4life](https://github.com/ops4life) for DevOps resources and projects!
+> Check out [ops4life](https://github.com/ops4life) for DevOps, SRE, and Platform Engineering resources and projects!
 
 ## 📚 Education
 
